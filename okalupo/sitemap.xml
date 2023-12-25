@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost/ya/NP/index.php</loc>
+        <lastmod>2023-24-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://localhost/ya/NP/characteristics.php</loc>
+        <lastmod>2023-24-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+ <url>
+        <loc>http://localhost/ya/NP/comparison.php</loc>
+        <lastmod>2023-24-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+	<url>
+        <loc>http://localhost/ya/NP/prices.php</loc>
+        <lastmod>2023-23-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+	<url>
+        <loc>http://localhost/ya/NP/reviews.php</loc>
+        <lastmod>2023-23-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
