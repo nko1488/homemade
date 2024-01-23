@@ -17,12 +17,12 @@
     <label for="month">Выберите месяц:</label>
     <select name="month" id="month">
         <?php
-        $months = [
+        $months = ['месяц',
             'Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь',
             'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'
         ];
         foreach ($months as $key => $month) {
-            echo "<option value='" . ($key + 1) . "'>$month</option>";
+            echo "<option value='" . ($key ) . "'>$month</option>";
         }
         ?>
     </select>
