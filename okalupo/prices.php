@@ -3,6 +3,12 @@
 <head>
 <meta name="description" content="Отзывы владельцев Ока и VW Lupo. Подробные отзывы о двух моделях автомобилей.">
 <meta name="keywords" content="отзывы владельцев Ока, VW Lupo отзывы, автомобильные отзывы">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Цены и комплектации</title>
+</head>
+<body>
 <header>
         <h1>Автомобили Ока и VW Lupo</h1>
         <nav>
@@ -15,12 +21,6 @@
             </ul>
         </nav>
     </header>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Цены и комплектации</title>
-</head>
-<body>
-
 <h1>Цены на автомобили</h1>
 
 <section>

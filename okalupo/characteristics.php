@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="description" content="Отзывы владельцев Ока и VW Lupo. Подробные отзывы о двух моделях автомобилей.">
-<meta name="keywords" content="отзывы владельцев Ока, VW Lupo отзывы, автомобильные отзывы">
+<meta name="description" content="Расход топлива Ока и VW Lupo. Двигатели моделей автомобилей.">
+<meta name="keywords" content="технические характеристики Ока, VW Lupo для каждой модели , автомобильные авто">
 <style>
         table {
             width: 100%!;(MISSING)

@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Автомобили Ока и VW Lupo</title>
-    <meta name="description" content="Информация о моделях Ока и VW Lupo: характеристики, цены, отзывы.">
-    <meta name="keywords" content="автомобиль Ока, VW Lupo, характеристики, цены, отзывы">
+    <meta name="description" content=" Введение в мир автомобилей Ока - надежных и экономичных и VW Lupo: характеристики, цены, отзывы.">
+    <meta name="keywords" content="Знакомьтесь с VW Lupo - стильным и современным автомобилем, характеристики, цены, отзывы">
    
     <!-- Дополнительные метатеги для SEO -->
 </head>

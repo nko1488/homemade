@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="description" content="Отзывы владельцев Ока и VW Lupo. Подробные отзывы о двух моделях автомобилей.">
-<meta name="keywords" content="отзывы владельцев Ока, VW Lupo отзывы, автомобильные отзывы">
+<meta name="description" content="Приемущества  Ока и VW Lupo. Цена, мощность двигателя.">
+<meta name="keywords" content="Недостатки Ока, VW Lupo, автомобильные низкая ">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сравнение Ока и VW Lupo</title>
+    
+</head>
+<body>
 <header>
         <h1>Автомобили Ока и VW Lupo</h1>
         <nav>
@@ -15,13 +22,6 @@
             </ul>
         </nav>
     </header>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Сравнение Ока и VW Lupo</title>
-    
-</head>
-<body>
-
     <h2>Сравнение Ока и VW Lupo</h2>
 
 
